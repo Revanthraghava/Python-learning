@@ -2,7 +2,9 @@
 
 This repository documents my daily Python practice,
 focused on building strong fundamentals through
-small, practical programs and projects.
+practical programs and projects.
+Each folder represents a learning milestone with
+working code and incremental improvements.
 
 ## Day 4 – Score Analyzer
 
