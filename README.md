@@ -1,9 +1,18 @@
-# PYTHON JOURNEY
+# Python Journey
 
 This repository documents my daily Python practice,
-focusing on building strong fundamentals through
-small, focused projects.
+focused on building strong fundamentals through
+small, practical programs.
 
-Each folder represents a learning milestone with
-working code and incremental improvements.
+## Day 4 – Score Analyzer
 
+CONCEPTS PRACTICED:
+- Lists
+- Loops
+- Conditional logic
+- Edge case handling
+
+PROJECT:
+- A program that collects multiple scores,
+  calculates total, average, highest and lowest values,
+  and outputs a Pass/Fail result.
