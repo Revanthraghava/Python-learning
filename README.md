@@ -25,4 +25,26 @@ Project:
 - Calculated percentages
 - Handled empty input safely
 
+  ## Day 8 – Expense Analyzer
+
+Built a console-based Expense Analyzer to apply problem-solving skills to a real-world scenario.
+
+### Features
+- Collects multiple expense values from user input
+- Uses functions to separate data collection and analysis
+- Calculates:
+  - total number of expenses
+  - highest expense
+  - lowest expense
+  - average expense
+- Handles empty input safely without errors
+
+### Concepts Used
+- Lists
+- Loops
+- Conditional logic
+- Functions with multiple return values
+- Clean data flow without global variables
+
+
      
