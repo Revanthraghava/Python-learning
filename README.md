@@ -6,7 +6,7 @@ practical programs and projects.
 Each folder represents a learning milestone with
 working code and incremental improvements.
 
-## Day 4 – Score Analyzer
+## 1. Score Analyzer
 
 Concepts practiced:
 - Lists
@@ -19,13 +19,13 @@ Project:
   calculates total, average, highest and lowest values,
   and outputs a Pass/Fail result.
 
-  ## Day 5 – Score Categorizer
+  ## 2. Score Categorizer
 - Categorized scores using conditions inside loops
 - Counted pass/fail cases
 - Calculated percentages
 - Handled empty input safely
 
-  ## Day 8 – Expense Analyzer
+  ## 3. Expense Analyzer
 
 Built a console-based Expense Analyzer to apply problem-solving skills to a real-world scenario.
 
@@ -45,6 +45,19 @@ Built a console-based Expense Analyzer to apply problem-solving skills to a real
 - Conditional logic
 - Functions with multiple return values
 - Clean data flow without global variables
+  
+
+## 4. Score Frequency Analyzer
+- Categorizes student scores into distinction, pass, and fail
+- Calculates percentage distribution
+- Handles edge cases safely
+- Built using functions and clean control flow
+
+## Expense Analyzer
+- Tracks user expenses
+- Calculates total, highest, lowest, and average values
+- Designed with modular functions
+
 
 
      
